@@ -1,5 +1,5 @@
 # GeeksforGeeks-Articles
-A repository for all my published and contributed articles on GeeksforGeeks
+A repository to maintain all my published articles and improved articles on the GeeksforGeeks Portal.
 
 ### Published Articles
 1. [Struts2 Login Page with Validation](https://www.geeksforgeeks.org/struts2-login-page-with-validation/)
