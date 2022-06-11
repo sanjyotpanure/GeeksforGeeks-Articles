@@ -16,3 +16,5 @@ A repository to maintain all my published articles and improved articles on the 
 8. [How to select/deselect multiple options in dropdown using jQuery ?](https://www.geeksforgeeks.org/how-to-select-deselect-multiple-options-in-dropdown-using-jquery/)
 9. [PHP | $_FILES Array (HTTP File Upload variables)](https://www.geeksforgeeks.org/php-_files-array-http-file-upload-variables/)
 10. [How to show/hide dropdown menu on mouse hover using CSS ?](https://www.geeksforgeeks.org/how-to-show-hide-dropdown-menu-on-mouse-hover-using-css/)
+11. [How to upload images in MySQL using PHP PDO ?](https://www.geeksforgeeks.org/how-to-upload-images-in-mysql-using-php-pdo/)
+12. [PHP | Uploading File](https://www.geeksforgeeks.org/php-uploading-file/)
