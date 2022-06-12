@@ -18,3 +18,7 @@ A repository to maintain all my published articles and improved articles on the 
 10. [How to show/hide dropdown menu on mouse hover using CSS ?](https://www.geeksforgeeks.org/how-to-show-hide-dropdown-menu-on-mouse-hover-using-css/)
 11. [How to upload images in MySQL using PHP PDO ?](https://www.geeksforgeeks.org/how-to-upload-images-in-mysql-using-php-pdo/)
 12. [PHP | Uploading File](https://www.geeksforgeeks.org/php-uploading-file/)
+13. [How to read PDF file using PHP ? ](https://www.geeksforgeeks.org/how-to-read-pdf-file-using-php/)
+14. [Form validation using jQuery](https://www.geeksforgeeks.org/form-validation-using-jquery/)
+15. [How to change the style of alert box using CSS ?]()
+16. [JavaScript | Dialogue Boxes]()
