@@ -20,5 +20,5 @@ A repository to maintain all my published articles and improved articles on the 
 12. [PHP | Uploading File](https://www.geeksforgeeks.org/php-uploading-file/)
 13. [How to read PDF file using PHP ? ](https://www.geeksforgeeks.org/how-to-read-pdf-file-using-php/)
 14. [Form validation using jQuery](https://www.geeksforgeeks.org/form-validation-using-jquery/)
-15. [How to change the style of alert box using CSS ?]()
-16. [JavaScript | Dialogue Boxes]()
+15. [How to change the style of alert box using CSS ?](https://www.geeksforgeeks.org/how-to-change-the-style-of-alert-box-using-css/)
+16. [JavaScript | Dialogue Boxes](https://www.geeksforgeeks.org/javascript-dialogue-boxes/)
