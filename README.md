@@ -22,3 +22,5 @@ A repository to maintain all my published articles and improved articles on the 
 14. [Form validation using jQuery](https://www.geeksforgeeks.org/form-validation-using-jquery/)
 15. [How to change the style of alert box using CSS ?](https://www.geeksforgeeks.org/how-to-change-the-style-of-alert-box-using-css/)
 16. [JavaScript | Dialogue Boxes](https://www.geeksforgeeks.org/javascript-dialogue-boxes/)
+17. [What are the types of Popup box available in JavaScript ?]()
+18. [JavaScript Course | JavaScript Prompt Example]()
