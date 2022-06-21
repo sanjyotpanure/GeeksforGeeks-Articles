@@ -24,5 +24,5 @@ A repository to maintain all my published articles and improved articles on the 
 16. [JavaScript | Dialogue Boxes](https://www.geeksforgeeks.org/javascript-dialogue-boxes/)
 17. [What are the types of Popup box available in JavaScript ?](https://www.geeksforgeeks.org/what-are-the-types-of-popup-box-available-in-javascript/)
 18. [JavaScript Course | JavaScript Prompt Example](https://www.geeksforgeeks.org/javascript-course-javascript-prompt-example/)
-19. [Javascript | Window prompt() Method]()
-20. [How to change Input box borders after filling the box using JavaScript ?]()
+19. [Javascript | Window prompt() Method](https://www.geeksforgeeks.org/javascript-window-prompt-method/)
+20. [How to change Input box borders after filling the box using JavaScript ?](https://www.geeksforgeeks.org/how-to-change-input-box-borders-after-filling-the-box-using-javascript/)
