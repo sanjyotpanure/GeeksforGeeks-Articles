@@ -26,3 +26,5 @@ A repository to maintain all my published articles and improved articles on the 
 18. [JavaScript Course | JavaScript Prompt Example](https://www.geeksforgeeks.org/javascript-course-javascript-prompt-example/)
 19. [Javascript | Window prompt() Method](https://www.geeksforgeeks.org/javascript-window-prompt-method/)
 20. [How to change Input box borders after filling the box using JavaScript ?](https://www.geeksforgeeks.org/how-to-change-input-box-borders-after-filling-the-box-using-javascript/)
+21. [How to open URL in a new window using JavaScript ?](https://www.geeksforgeeks.org/how-to-open-url-in-a-new-window-using-javascript/)
+22. [How to open a hyperlink in another window or tab in HTML ?](https://www.geeksforgeeks.org/how-to-open-a-hyperlink-in-another-window-or-tab-in-html/)
