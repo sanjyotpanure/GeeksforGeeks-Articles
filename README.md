@@ -29,3 +29,4 @@ A repository to maintain all my published articles and improved articles on the 
 21. [How to change Input box borders after filling the box using JavaScript ?](https://www.geeksforgeeks.org/how-to-change-input-box-borders-after-filling-the-box-using-javascript/)
 22. [How to open URL in a new window using JavaScript ?](https://www.geeksforgeeks.org/how-to-open-url-in-a-new-window-using-javascript/)
 23. [How to open a hyperlink in another window or tab in HTML ?](https://www.geeksforgeeks.org/how-to-open-a-hyperlink-in-another-window-or-tab-in-html/)
+24. [How to get the new image URL after refreshing the image using JavaScript ?](https://www.geeksforgeeks.org/how-to-get-the-new-image-url-after-refreshing-the-image-using-javascript/)
