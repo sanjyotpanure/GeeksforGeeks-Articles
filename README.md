@@ -30,4 +30,5 @@ A repository to maintain all my published articles and improved articles on the 
 22. [How to open URL in a new window using JavaScript ?](https://www.geeksforgeeks.org/how-to-open-url-in-a-new-window-using-javascript/)
 23. [How to open a hyperlink in another window or tab in HTML ?](https://www.geeksforgeeks.org/how-to-open-a-hyperlink-in-another-window-or-tab-in-html/)
 24. [How to get the new image URL after refreshing the image using JavaScript ?](https://www.geeksforgeeks.org/how-to-get-the-new-image-url-after-refreshing-the-image-using-javascript/)
-25. [How to Open URL in New Tab using JavaScript ? ](https://www.geeksforgeeks.org/how-to-open-url-in-new-tab-using-javascript/)
+25. [How to Open URL in New Tab using JavaScript ?](https://www.geeksforgeeks.org/how-to-open-url-in-new-tab-using-javascript/)
+26. [JavaScript window.open() Method](https://www.geeksforgeeks.org/javascript-window-open-method/)
