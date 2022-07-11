@@ -33,3 +33,4 @@ A repository to maintain all my published articles and improved articles on the 
 25. [How to Open URL in New Tab using JavaScript ?](https://www.geeksforgeeks.org/how-to-open-url-in-new-tab-using-javascript/)
 26. [JavaScript window.open() Method](https://www.geeksforgeeks.org/javascript-window-open-method/)
 27. [JavaScript window.close() Method](https://www.geeksforgeeks.org/javascript-window-close-method/)
+28. [How to create three boxes in the same div using HTML and CSS ?](https://www.geeksforgeeks.org/how-to-create-three-boxes-in-the-same-div-using-html-and-css/)
