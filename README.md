@@ -34,5 +34,5 @@ A repository to maintain all my published articles and improved articles on the 
 26. [JavaScript window.open() Method](https://www.geeksforgeeks.org/javascript-window-open-method/)
 27. [JavaScript window.close() Method](https://www.geeksforgeeks.org/javascript-window-close-method/)
 28. [How to create three boxes in the same div using HTML and CSS ?](https://www.geeksforgeeks.org/how-to-create-three-boxes-in-the-same-div-using-html-and-css/)
-29. [How to overlay one div over another div using CSS]()
-30. [CSS Image overlay hover title]()
+29. [How to overlay one div over another div using CSS](https://www.geeksforgeeks.org/how-to-overlay-one-div-over-another-div-using-css/)
+30. [CSS Image overlay hover title](https://www.geeksforgeeks.org/css-image-overlay-hover-title/)
