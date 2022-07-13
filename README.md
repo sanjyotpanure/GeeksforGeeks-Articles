@@ -36,3 +36,5 @@ A repository to maintain all my published articles and improved articles on the 
 28. [How to create three boxes in the same div using HTML and CSS ?](https://www.geeksforgeeks.org/how-to-create-three-boxes-in-the-same-div-using-html-and-css/)
 29. [How to overlay one div over another div using CSS](https://www.geeksforgeeks.org/how-to-overlay-one-div-over-another-div-using-css/)
 30. [CSS Image overlay hover title](https://www.geeksforgeeks.org/css-image-overlay-hover-title/)
+31. [CSS | Combine background image with gradient overlay]
+32. [How to make a glass/blur effect overlay using HTML and CSS ? publish]
