@@ -38,3 +38,4 @@ A repository to maintain all my published articles and improved articles on the 
 30. [CSS Image overlay hover title](https://www.geeksforgeeks.org/css-image-overlay-hover-title/)
 31. [CSS | Combine background image with gradient overlay](https://www.geeksforgeeks.org/css-combine-background-image-with-gradient-overlay/)
 32. [How to make a glass/blur effect overlay using HTML and CSS ?](https://www.geeksforgeeks.org/how-to-make-a-glass-blur-effect-overlay-using-html-and-css/)
+33. [How to use image overlay correctly with Bootstrap ?](https://www.geeksforgeeks.org/how-to-use-image-overlay-correctly-with-bootstrap/)
