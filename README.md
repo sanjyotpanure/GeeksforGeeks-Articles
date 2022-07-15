@@ -41,3 +41,4 @@ A repository to maintain all my published articles and improved articles on the 
 33. [How to use image overlay correctly with Bootstrap ?](https://www.geeksforgeeks.org/how-to-use-image-overlay-correctly-with-bootstrap/)
 34. [How to make a Pagination using HTML and CSS ?](https://www.geeksforgeeks.org/how-to-make-a-pagination-using-html-and-css/)
 35. [How to align two navbars in bootstrap ?](https://www.geeksforgeeks.org/how-to-align-two-navbars-in-bootstrap/)
+36. [How to add a black hover to an image using bootstrap?](https://www.geeksforgeeks.org/how-to-add-a-black-hover-to-an-image-using-bootstrap/)
