@@ -44,3 +44,4 @@ A repository to maintain all my published articles and improved articles on the 
 36. [How to add a black hover to an image using bootstrap?](https://www.geeksforgeeks.org/how-to-add-a-black-hover-to-an-image-using-bootstrap/)
 37. [How to add and remove input fields dynamically using jQuery with Bootstrap ?](https://www.geeksforgeeks.org/how-to-add-and-remove-input-fields-dynamically-using-jquery-with-bootstrap/)
 38. [Javascript | Window Open() & Window Close() Method](https://www.geeksforgeeks.org/javascript-window-open-window-close-method/)
+39. [Explain the basic structure of the Bootstrap Grid](https://www.geeksforgeeks.org/explain-the-basic-structure-of-the-bootstrap-grid/)
