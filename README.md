@@ -5,6 +5,7 @@ A repository to maintain all my published articles and improved articles on the 
 1. [Struts2 Login Page with Validation](https://www.geeksforgeeks.org/struts2-login-page-with-validation/)
 2. [Upload pdf file to MySQL database for multiple records using PHP](https://www.geeksforgeeks.org/upload-pdf-file-to-mysql-database-for-multiple-records-using-php/)
 3. [Create and Setup Struts2 Dynamic Web Application in Eclipse](https://www.geeksforgeeks.org/create-and-setup-struts2-dynamic-web-application-in-eclipse/)
+4. [Hello World Example using Stuts2](https://www.geeksforgeeks.org/hello-world-example-using-stuts2/)
 
 ### Improved Articles
 1. [How to create admin login page using PHP?](https://www.geeksforgeeks.org/how-to-create-admin-login-page-using-php/)
