@@ -48,3 +48,4 @@ A repository to maintain all my published articles and improved articles on the 
 38. [Javascript | Window Open() & Window Close() Method](https://www.geeksforgeeks.org/javascript-window-open-window-close-method/)
 39. [Explain the basic structure of the Bootstrap Grid](https://www.geeksforgeeks.org/explain-the-basic-structure-of-the-bootstrap-grid/)
 40. [How to align images in card with dynamic title?](https://www.geeksforgeeks.org/how-to-align-images-in-card-with-dynamic-title/)
+41. [How to repeat background image vertically and horizontally using CSS ?](https://www.geeksforgeeks.org/how-to-repeat-background-image-vertically-and-horizontally-using-css/)
